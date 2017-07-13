@@ -1,0 +1,1 @@
+# mock-up-to-article-udacity
